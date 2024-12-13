@@ -27,7 +27,7 @@ A collection of 5 unique and stylish navbars built with HTML and CSS. Each desig
 1. Clone this repository:
    git clone https://github.com/AbdullahOwais-Dev/Navbar-Designs.git
 
-2. Navigate to any folder (e.g., `navb1`) and open the `index.html` file in your browser.
+2. Navigate to any folder and open the `index.html` file in your browser.
 
 ---
 
