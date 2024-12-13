@@ -6,11 +6,11 @@ A collection of 5 unique and stylish navbars built with HTML and CSS. Each desig
 
 ## Live Previews
 
-1. Navbar Design 1:[ https://AbdullahOwais-Dev.github.io/Navbar-Designs/nav1/](https://abdullahowais-dev.github.io/Navbar-Designs/nav1.html)
-2. Navbar Design 2:[ https://AbdullahOwais-Dev.github.io/Navbar-Designs/nav2/](https://abdullahowais-dev.github.io/Navbar-Designs/nav1.html)
-3. Navbar Design 3: [https:[//AbdullahOwais-Dev.github.io/Navbar-Designs/nav3/](https://abdullahowais-dev.github.io/Navbar-Designs/nav1.html)]
-4. Navbar Design 4: [https://AbdullahOwais-Dev.github.io/Navbar-Designs/nav4/](https://abdullahowais-dev.github.io/Navbar-Designs/nav1.html)
-5. Navbar Design 5:[ https://AbdullahOwais-Dev.github.io/Navbar-Designs/nav5/](https://abdullahowais-dev.github.io/Navbar-Designs/nav1.html)
+ [![Navbar Design 1](https://img.shields.io/badge/Navbar%20Design%201-4CAF50?style=for-the-badge&logo=github)](https://AbdullahOwais-Dev.github.io/Navbar-Designs/nav1.html)
+ [![Navbar Design 2](https://img.shields.io/badge/Navbar%20Design%202-4CAF50?style=for-the-badge&logo=github)](https://AbdullahOwais-Dev.github.io/Navbar-Designs/nav2.html)
+ [![Navbar Design 3](https://img.shields.io/badge/Navbar%20Design%203-4CAF50?style=for-the-badge&logo=github)](https://AbdullahOwais-Dev.github.io/Navbar-Designs/nav3.html)
+ [![Navbar Design 4](https://img.shields.io/badge/Navbar%20Design%204-4CAF50?style=for-the-badge&logo=github)](https://AbdullahOwais-Dev.github.io/Navbar-Designs/nav4.html)
+ [![Navbar Design 5](https://img.shields.io/badge/Navbar%20Design%205-4CAF50?style=for-the-badge&logo=github)](https://AbdullahOwais-Dev.github.io/Navbar-Designs/nav5.html)
 
 ---
 
